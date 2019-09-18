@@ -79,7 +79,6 @@ Patients' characteristics:
       -	time_12m
       -	status_12m
 
-
 ### POST-ACUTE DATA ONLY (ROWS)
 +	Patients' characteristics
     -	id -- anonymised patient's identification number
