@@ -88,6 +88,3 @@ Patients' characteristics:
     -	post-acute_type – type of setting (i simplified this part for the course, since defining these types would take much time)
     -	LOS – length of stay in days in this setting, zeros are for outpatient settings
     -	therapy – total physical therapy received in that setting
-
-### BOTH TABLES JOINED
-Check above.
